@@ -1,1 +1,2 @@
-let nums = [2,56,78,41];
+ function name(user);
+console.log("Test");
