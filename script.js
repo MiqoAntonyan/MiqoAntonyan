@@ -1,1 +1,1 @@
-console.log("Hello World.");
+let nums = [2,56,78,41];
